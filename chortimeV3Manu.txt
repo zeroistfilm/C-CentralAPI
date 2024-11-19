@@ -1,0 +1,71 @@
+Pane - 'MyFarm  (choiyul 2)'    (L2474, T918, R3677, B1641)
+   |    |    |    |    |    | ['Pane6', 'MyFarm  (choiyul 2)Pane2', 'MyFarm  (choiyul 2)2']
+   |    |    |    |    |    | child_window(title="MyFarm  (choiyul 2)", auto_id="mFacpGUI", control_type="Pane")
+   |    |    |    |    |    |    |
+   |    |    |    |    |    |    | Pane - ''    (L2475, T920, R3675, B1640)
+   |    |    |    |    |    |    | ['Pane7', 'MyFarm  (choiyul 2)Pane3']
+   |    |    |    |    |    |    | child_window(auto_id="MainView", control_type="Pane")
+   |    |    |    |    |    |    |    |
+   |    |    |    |    |    |    |    | Pane - ''    (L3033, T963, R3113, B1038)
+   |    |    |    |    |    |    |    | ['Pane8', 'MyFarm  (choiyul 2)Pane4']
+   |    |    |    |    |    |    |    | child_window(auto_id="btnAlarm", control_type="Pane")
+   |    |    |    |    |    |    |    |
+   |    |    |    |    |    |    |    | Pane - ''    (L2795, T963, R2875, B1038)
+   |    |    |    |    |    |    |    | ['Pane9', 'MyFarm  (choiyul 2)Pane5']
+   |    |    |    |    |    |    |    | child_window(auto_id="btnCurrentCondition", control_type="Pane")
+   |    |    |    |    |    |    |    |
+   |    |    |    |    |    |    |    | Pane - ''    (L3594, T963, R3674, B1038)
+   |    |    |    |    |    |    |    | ['Pane10', 'MyFarm  (choiyul 2)Pane6']
+   |    |    |    |    |    |    |    | child_window(auto_id="btnHelp", control_type="Pane")
+   |    |    |    |    |    |    |    |
+   |    |    |    |    |    |    |    | Pane - ''    (L2639, T963, R2719, B1038)
+   |    |    |    |    |    |    |    | ['Pane11', 'MyFarm  (choiyul 2)Pane7']
+   |    |    |    |    |    |    |    | child_window(auto_id="btnForward", control_type="Pane")
+   |    |    |    |    |    |    |    |
+   |    |    |    |    |    |    |    | Pane - ''    (L3513, T963, R3593, B1038)
+   |    |    |    |    |    |    |    | ['Pane12', 'MyFarm  (choiyul 2)Pane8']
+   |    |    |    |    |    |    |    | child_window(auto_id="btnOperationLevels", control_type="Pane")
+   |    |    |    |    |    |    |    |
+   |    |    |    |    |    |    |    | Pane - ''    (L2558, T963, R2638, B1038)
+   |    |    |    |    |    |    |    | ['Pane13', 'MyFarm  (choiyul 2)Pane9']
+   |    |    |    |    |    |    |    | child_window(auto_id="btnMainMenu", control_type="Pane")
+   |    |    |    |    |    |    |    |
+   |    |    |    |    |    |    |    | Pane - ''    (L2477, T963, R2557, B1038)
+   |    |    |    |    |    |    |    | ['Pane14', 'MyFarm  (choiyul 2)Pane10']
+   |    |    |    |    |    |    |    | child_window(auto_id="btnBack", control_type="Pane")
+   |    |    |    |    |    |    |    |
+   |    |    |    |    |    |    |    | Pane - ''    (L2478, T1046, R3672, B1595)
+   |    |    |    |    |    |    |    | ['Pane15', 'MyFarm  (choiyul 2)Pane11']
+   |    |    |    |    |    |    |    | child_window(auto_id="MainMenu", control_type="Pane")
+   |    |    |    |    |    |    |    |    |
+   |    |    |    |    |    |    |    |    | Pane - '기초설정 '    (L3083, T1466, R3353, B1547)
+   |    |    |    |    |    |    |    |    | ['Pane16', '기초설정 Pane', '기초설정 ']
+   |    |    |    |    |    |    |    |    | child_window(title="기초설정 ", auto_id="bitmapButton10", control_type="Pane")
+   |    |    |    |    |    |    |    |    |
+   |    |    |    |    |    |    |    |    | Pane - '프로그램'    (L3083, T1376, R3353, B1457)
+   |    |    |    |    |    |    |    |    | ['Pane17', '프로그램', '프로그램Pane']
+   |    |    |    |    |    |    |    |    | child_window(title="프로그램", auto_id="bitmapButton9", control_type="Pane")
+   |    |    |    |    |    |    |    |    |
+   |    |    |    |    |    |    |    |    | Pane - '계군관리'    (L3083, T1286, R3353, B1367)
+   |    |    |    |    |    |    |    |    | ['Pane18', '계군관리', '계군관리Pane']
+   |    |    |    |    |    |    |    |    | child_window(title="계군관리", auto_id="bitmapButton8", control_type="Pane")
+   |    |    |    |    |    |    |    |    |
+   |    |    |    |    |    |    |    |    | Pane - '커브'    (L3083, T1196, R3353, B1277)
+   |    |    |    |    |    |    |    |    | ['Pane19', '커브', '커브Pane']
+   |    |    |    |    |    |    |    |    | child_window(title="커브", auto_id="bitmapButton7", control_type="Pane")
+   |    |    |    |    |    |    |    |    |
+   |    |    |    |    |    |    |    |    | Pane - '기록'    (L2804, T1466, R3074, B1547)
+   |    |    |    |    |    |    |    |    | ['Pane20', '기록', '기록Pane']
+   |    |    |    |    |    |    |    |    | child_window(title="기록", auto_id="bitmapButton5", control_type="Pane")
+   |    |    |    |    |    |    |    |    |
+   |    |    |    |    |    |    |    |    | Pane - '시간'    (L2804, T1376, R3074, B1457)
+   |    |    |    |    |    |    |    |    | ['Pane21', '시간Pane', '시간']
+   |    |    |    |    |    |    |    |    | child_window(title="시간", auto_id="bitmapButton4", control_type="Pane")
+   |    |    |    |    |    |    |    |    |
+   |    |    |    |    |    |    |    |    | Pane - '온도설정'    (L2804, T1286, R3074, B1367)
+   |    |    |    |    |    |    |    |    | ['Pane22', '온도설정', '온도설정Pane']
+   |    |    |    |    |    |    |    |    | child_window(title="온도설정", auto_id="bitmapButton3", control_type="Pane")
+   |    |    |    |    |    |    |    |    |
+   |    |    |    |    |    |    |    |    | Pane - '환기설정'    (L2804, T1196, R3074, B1277)
+   |    |    |    |    |    |    |    |    | ['Pane23', '환기설정', '환기설정Pane']
+   |    |    |    |    |    |    |    |    | child_window(title="환기설정", auto_id="bitmapButton2", control_type="Pane")

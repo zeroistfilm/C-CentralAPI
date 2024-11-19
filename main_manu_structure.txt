@@ -1,0 +1,691 @@
+WindowsForms10.Window.8.app.0.33c0d9d - 'Control Units, Operation - C-Central'    (L-12, T-12, R3852, B2112)
+['Control Units, Operation - C-Central', 'Control Units, Operation - C-CentralWindowsForms10.Window.8.app.0.33c0d9d', 'WindowsForms10.Window.8.app.0.33c0d9d', 'WindowsForms10.Window.8.app.0.33c0d9d0', 'WindowsForms10.Window.8.app.0.33c0d9d1', 'Control Units, Operation - C-CentralWindowsForms10.Window.8.app.0.33c0d9d0', 'Control Units, Operation - C-CentralWindowsForms10.Window.8.app.0.33c0d9d1']
+child_window(title="Control Units, Operation - C-Central", auto_id="MainForm", control_type="Farmline.GUI.FCentral.MainForm")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L231, T146, R3840, B2065)
+   | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d', 'WindowsForms10.Window.8.app.0.33c0d9d2', 'Farm StructureWindowsForms10.Window.8.app.0.33c0d9d0', 'Farm StructureWindowsForms10.Window.8.app.0.33c0d9d1']
+   | child_window(auto_id="modPanel", control_type="System.Windows.Forms.Panel")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L231, T146, R3840, B2065)
+   |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d2', 'WindowsForms10.Window.8.app.0.33c0d9d3']
+   |    | child_window(auto_id="mControlUnitsOperationPane", control_type="Farmline.GUI.FCentral.Controls.ControlUnitsOperationPane")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T146, R3841, B2065)
+   |    |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d3', 'WindowsForms10.Window.8.app.0.33c0d9d4']
+   |    |    | child_window(auto_id="pnlOperationContainer", control_type="System.Windows.Forms.Panel")
+   |    |    |    |
+   |    |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T146, R3841, B2065)
+   |    |    |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d4', 'WindowsForms10.Window.8.app.0.33c0d9d5']
+   |    |    |    | child_window(auto_id="pnlOperationSectionFarm", control_type="System.Windows.Forms.Panel")
+   |    |    |    |    |
+   |    |    |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T180, R3841, B2064)
+   |    |    |    |    | ['MyFarmWindowsForms10.Window.8.app.0.33c0d9d', 'WindowsForms10.Window.8.app.0.33c0d9d6', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d0', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d1']
+   |    |    |    |    | child_window(auto_id="pbBitmap", control_type="System.Windows.Forms.PictureBox")
+   |    |    |    |    |
+   |    |    |    |    | Static - 'MyFarm'    (L491, T146, R3841, B181)
+   |    |    |    |    | ['Static', 'MyFarm', 'MyFarmStatic', 'Static0', 'Static1']
+   |    |    |    |    | child_window(title="MyFarm", auto_id="lblTitleBitmap", control_type="System.Windows.Forms.Label")
+   |    |    |    |
+   |    |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T180, R3841, B2064)
+   |    |    |    | ['MyFarmWindowsForms10.Window.8.app.0.33c0d9d', 'WindowsForms10.Window.8.app.0.33c0d9d6', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d0', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d1']
+   |    |    |    | child_window(auto_id="pbBitmap", control_type="System.Windows.Forms.PictureBox")
+   |    |    |    |
+   |    |    |    | Static - 'MyFarm'    (L491, T146, R3841, B181)
+   |    |    |    | ['Static', 'MyFarm', 'MyFarmStatic', 'Static0', 'Static1']
+   |    |    |    | child_window(title="MyFarm", auto_id="lblTitleBitmap", control_type="System.Windows.Forms.Label")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T146, R3841, B2065)
+   |    |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d4', 'WindowsForms10.Window.8.app.0.33c0d9d5']
+   |    |    | child_window(auto_id="pnlOperationSectionFarm", control_type="System.Windows.Forms.Panel")
+   |    |    |    |
+   |    |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T180, R3841, B2064)
+   |    |    |    | ['MyFarmWindowsForms10.Window.8.app.0.33c0d9d', 'WindowsForms10.Window.8.app.0.33c0d9d6', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d0', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d1']
+   |    |    |    | child_window(auto_id="pbBitmap", control_type="System.Windows.Forms.PictureBox")
+   |    |    |    |
+   |    |    |    | Static - 'MyFarm'    (L491, T146, R3841, B181)
+   |    |    |    | ['Static', 'MyFarm', 'MyFarmStatic', 'Static0', 'Static1']
+   |    |    |    | child_window(title="MyFarm", auto_id="lblTitleBitmap", control_type="System.Windows.Forms.Label")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T180, R3841, B2064)
+   |    |    | ['MyFarmWindowsForms10.Window.8.app.0.33c0d9d', 'WindowsForms10.Window.8.app.0.33c0d9d6', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d0', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d1']
+   |    |    | child_window(auto_id="pbBitmap", control_type="System.Windows.Forms.PictureBox")
+   |    |    |
+   |    |    | Static - 'MyFarm'    (L491, T146, R3841, B181)
+   |    |    | ['Static', 'MyFarm', 'MyFarmStatic', 'Static0', 'Static1']
+   |    |    | child_window(title="MyFarm", auto_id="lblTitleBitmap", control_type="System.Windows.Forms.Label")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L486, T146, R491, B2065)
+   |    |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d5', 'WindowsForms10.Window.8.app.0.33c0d9d7']
+   |    |    | child_window(auto_id="mSideSplitter", control_type="System.Windows.Forms.Splitter")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L231, T146, R486, B2065)
+   |    |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d6', 'WindowsForms10.Window.8.app.0.33c0d9d8']
+   |    |    | child_window(auto_id="mNavigationPanel", control_type="System.Windows.Forms.Panel")
+   |    |    |    |
+   |    |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L231, T146, R486, B2065)
+   |    |    |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d7', 'WindowsForms10.Window.8.app.0.33c0d9d9']
+   |    |    |    | child_window(auto_id="mNavigationStructure", control_type="Farmline.GUI.FCentral.Controls.NavigationStructure")
+   |    |    |    |    |
+   |    |    |    |    | TreeView - ''    (L231, T180, R486, B2064)
+   |    |    |    |    | ['Farm StructureTreeView', 'TreeView']
+   |    |    |    |    | child_window(auto_id="mTreeView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomTree")
+   |    |    |    |    |
+   |    |    |    |    | Static - 'Farm Structure'    (L231, T146, R486, B181)
+   |    |    |    |    | ['Farm StructureStatic', 'Static2', 'Farm Structure']
+   |    |    |    |    | child_window(title="Farm Structure", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |    |    |    |
+   |    |    |    | TreeView - ''    (L231, T180, R486, B2064)
+   |    |    |    | ['Farm StructureTreeView', 'TreeView']
+   |    |    |    | child_window(auto_id="mTreeView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomTree")
+   |    |    |    |
+   |    |    |    | Static - 'Farm Structure'    (L231, T146, R486, B181)
+   |    |    |    | ['Farm StructureStatic', 'Static2', 'Farm Structure']
+   |    |    |    | child_window(title="Farm Structure", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L231, T146, R486, B2065)
+   |    |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d7', 'WindowsForms10.Window.8.app.0.33c0d9d9']
+   |    |    | child_window(auto_id="mNavigationStructure", control_type="Farmline.GUI.FCentral.Controls.NavigationStructure")
+   |    |    |    |
+   |    |    |    | TreeView - ''    (L231, T180, R486, B2064)
+   |    |    |    | ['Farm StructureTreeView', 'TreeView']
+   |    |    |    | child_window(auto_id="mTreeView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomTree")
+   |    |    |    |
+   |    |    |    | Static - 'Farm Structure'    (L231, T146, R486, B181)
+   |    |    |    | ['Farm StructureStatic', 'Static2', 'Farm Structure']
+   |    |    |    | child_window(title="Farm Structure", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |    |    |
+   |    |    | TreeView - ''    (L231, T180, R486, B2064)
+   |    |    | ['Farm StructureTreeView', 'TreeView']
+   |    |    | child_window(auto_id="mTreeView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomTree")
+   |    |    |
+   |    |    | Static - 'Farm Structure'    (L231, T146, R486, B181)
+   |    |    | ['Farm StructureStatic', 'Static2', 'Farm Structure']
+   |    |    | child_window(title="Farm Structure", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T146, R3841, B2065)
+   |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d3', 'WindowsForms10.Window.8.app.0.33c0d9d4']
+   |    | child_window(auto_id="pnlOperationContainer", control_type="System.Windows.Forms.Panel")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T146, R3841, B2065)
+   |    |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d4', 'WindowsForms10.Window.8.app.0.33c0d9d5']
+   |    |    | child_window(auto_id="pnlOperationSectionFarm", control_type="System.Windows.Forms.Panel")
+   |    |    |    |
+   |    |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T180, R3841, B2064)
+   |    |    |    | ['MyFarmWindowsForms10.Window.8.app.0.33c0d9d', 'WindowsForms10.Window.8.app.0.33c0d9d6', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d0', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d1']
+   |    |    |    | child_window(auto_id="pbBitmap", control_type="System.Windows.Forms.PictureBox")
+   |    |    |    |
+   |    |    |    | Static - 'MyFarm'    (L491, T146, R3841, B181)
+   |    |    |    | ['Static', 'MyFarm', 'MyFarmStatic', 'Static0', 'Static1']
+   |    |    |    | child_window(title="MyFarm", auto_id="lblTitleBitmap", control_type="System.Windows.Forms.Label")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T180, R3841, B2064)
+   |    |    | ['MyFarmWindowsForms10.Window.8.app.0.33c0d9d', 'WindowsForms10.Window.8.app.0.33c0d9d6', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d0', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d1']
+   |    |    | child_window(auto_id="pbBitmap", control_type="System.Windows.Forms.PictureBox")
+   |    |    |
+   |    |    | Static - 'MyFarm'    (L491, T146, R3841, B181)
+   |    |    | ['Static', 'MyFarm', 'MyFarmStatic', 'Static0', 'Static1']
+   |    |    | child_window(title="MyFarm", auto_id="lblTitleBitmap", control_type="System.Windows.Forms.Label")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T146, R3841, B2065)
+   |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d4', 'WindowsForms10.Window.8.app.0.33c0d9d5']
+   |    | child_window(auto_id="pnlOperationSectionFarm", control_type="System.Windows.Forms.Panel")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T180, R3841, B2064)
+   |    |    | ['MyFarmWindowsForms10.Window.8.app.0.33c0d9d', 'WindowsForms10.Window.8.app.0.33c0d9d6', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d0', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d1']
+   |    |    | child_window(auto_id="pbBitmap", control_type="System.Windows.Forms.PictureBox")
+   |    |    |
+   |    |    | Static - 'MyFarm'    (L491, T146, R3841, B181)
+   |    |    | ['Static', 'MyFarm', 'MyFarmStatic', 'Static0', 'Static1']
+   |    |    | child_window(title="MyFarm", auto_id="lblTitleBitmap", control_type="System.Windows.Forms.Label")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T180, R3841, B2064)
+   |    | ['MyFarmWindowsForms10.Window.8.app.0.33c0d9d', 'WindowsForms10.Window.8.app.0.33c0d9d6', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d0', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d1']
+   |    | child_window(auto_id="pbBitmap", control_type="System.Windows.Forms.PictureBox")
+   |    |
+   |    | Static - 'MyFarm'    (L491, T146, R3841, B181)
+   |    | ['Static', 'MyFarm', 'MyFarmStatic', 'Static0', 'Static1']
+   |    | child_window(title="MyFarm", auto_id="lblTitleBitmap", control_type="System.Windows.Forms.Label")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L486, T146, R491, B2065)
+   |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d5', 'WindowsForms10.Window.8.app.0.33c0d9d7']
+   |    | child_window(auto_id="mSideSplitter", control_type="System.Windows.Forms.Splitter")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L231, T146, R486, B2065)
+   |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d6', 'WindowsForms10.Window.8.app.0.33c0d9d8']
+   |    | child_window(auto_id="mNavigationPanel", control_type="System.Windows.Forms.Panel")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L231, T146, R486, B2065)
+   |    |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d7', 'WindowsForms10.Window.8.app.0.33c0d9d9']
+   |    |    | child_window(auto_id="mNavigationStructure", control_type="Farmline.GUI.FCentral.Controls.NavigationStructure")
+   |    |    |    |
+   |    |    |    | TreeView - ''    (L231, T180, R486, B2064)
+   |    |    |    | ['Farm StructureTreeView', 'TreeView']
+   |    |    |    | child_window(auto_id="mTreeView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomTree")
+   |    |    |    |
+   |    |    |    | Static - 'Farm Structure'    (L231, T146, R486, B181)
+   |    |    |    | ['Farm StructureStatic', 'Static2', 'Farm Structure']
+   |    |    |    | child_window(title="Farm Structure", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |    |    |
+   |    |    | TreeView - ''    (L231, T180, R486, B2064)
+   |    |    | ['Farm StructureTreeView', 'TreeView']
+   |    |    | child_window(auto_id="mTreeView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomTree")
+   |    |    |
+   |    |    | Static - 'Farm Structure'    (L231, T146, R486, B181)
+   |    |    | ['Farm StructureStatic', 'Static2', 'Farm Structure']
+   |    |    | child_window(title="Farm Structure", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L231, T146, R486, B2065)
+   |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d7', 'WindowsForms10.Window.8.app.0.33c0d9d9']
+   |    | child_window(auto_id="mNavigationStructure", control_type="Farmline.GUI.FCentral.Controls.NavigationStructure")
+   |    |    |
+   |    |    | TreeView - ''    (L231, T180, R486, B2064)
+   |    |    | ['Farm StructureTreeView', 'TreeView']
+   |    |    | child_window(auto_id="mTreeView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomTree")
+   |    |    |
+   |    |    | Static - 'Farm Structure'    (L231, T146, R486, B181)
+   |    |    | ['Farm StructureStatic', 'Static2', 'Farm Structure']
+   |    |    | child_window(title="Farm Structure", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |    |
+   |    | TreeView - ''    (L231, T180, R486, B2064)
+   |    | ['Farm StructureTreeView', 'TreeView']
+   |    | child_window(auto_id="mTreeView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomTree")
+   |    |
+   |    | Static - 'Farm Structure'    (L231, T146, R486, B181)
+   |    | ['Farm StructureStatic', 'Static2', 'Farm Structure']
+   |    | child_window(title="Farm Structure", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L231, T146, R3840, B2065)
+   | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d2', 'WindowsForms10.Window.8.app.0.33c0d9d3']
+   | child_window(auto_id="mControlUnitsOperationPane", control_type="Farmline.GUI.FCentral.Controls.ControlUnitsOperationPane")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T146, R3841, B2065)
+   |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d3', 'WindowsForms10.Window.8.app.0.33c0d9d4']
+   |    | child_window(auto_id="pnlOperationContainer", control_type="System.Windows.Forms.Panel")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T146, R3841, B2065)
+   |    |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d4', 'WindowsForms10.Window.8.app.0.33c0d9d5']
+   |    |    | child_window(auto_id="pnlOperationSectionFarm", control_type="System.Windows.Forms.Panel")
+   |    |    |    |
+   |    |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T180, R3841, B2064)
+   |    |    |    | ['MyFarmWindowsForms10.Window.8.app.0.33c0d9d', 'WindowsForms10.Window.8.app.0.33c0d9d6', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d0', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d1']
+   |    |    |    | child_window(auto_id="pbBitmap", control_type="System.Windows.Forms.PictureBox")
+   |    |    |    |
+   |    |    |    | Static - 'MyFarm'    (L491, T146, R3841, B181)
+   |    |    |    | ['Static', 'MyFarm', 'MyFarmStatic', 'Static0', 'Static1']
+   |    |    |    | child_window(title="MyFarm", auto_id="lblTitleBitmap", control_type="System.Windows.Forms.Label")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T180, R3841, B2064)
+   |    |    | ['MyFarmWindowsForms10.Window.8.app.0.33c0d9d', 'WindowsForms10.Window.8.app.0.33c0d9d6', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d0', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d1']
+   |    |    | child_window(auto_id="pbBitmap", control_type="System.Windows.Forms.PictureBox")
+   |    |    |
+   |    |    | Static - 'MyFarm'    (L491, T146, R3841, B181)
+   |    |    | ['Static', 'MyFarm', 'MyFarmStatic', 'Static0', 'Static1']
+   |    |    | child_window(title="MyFarm", auto_id="lblTitleBitmap", control_type="System.Windows.Forms.Label")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T146, R3841, B2065)
+   |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d4', 'WindowsForms10.Window.8.app.0.33c0d9d5']
+   |    | child_window(auto_id="pnlOperationSectionFarm", control_type="System.Windows.Forms.Panel")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T180, R3841, B2064)
+   |    |    | ['MyFarmWindowsForms10.Window.8.app.0.33c0d9d', 'WindowsForms10.Window.8.app.0.33c0d9d6', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d0', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d1']
+   |    |    | child_window(auto_id="pbBitmap", control_type="System.Windows.Forms.PictureBox")
+   |    |    |
+   |    |    | Static - 'MyFarm'    (L491, T146, R3841, B181)
+   |    |    | ['Static', 'MyFarm', 'MyFarmStatic', 'Static0', 'Static1']
+   |    |    | child_window(title="MyFarm", auto_id="lblTitleBitmap", control_type="System.Windows.Forms.Label")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T180, R3841, B2064)
+   |    | ['MyFarmWindowsForms10.Window.8.app.0.33c0d9d', 'WindowsForms10.Window.8.app.0.33c0d9d6', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d0', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d1']
+   |    | child_window(auto_id="pbBitmap", control_type="System.Windows.Forms.PictureBox")
+   |    |
+   |    | Static - 'MyFarm'    (L491, T146, R3841, B181)
+   |    | ['Static', 'MyFarm', 'MyFarmStatic', 'Static0', 'Static1']
+   |    | child_window(title="MyFarm", auto_id="lblTitleBitmap", control_type="System.Windows.Forms.Label")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L486, T146, R491, B2065)
+   |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d5', 'WindowsForms10.Window.8.app.0.33c0d9d7']
+   |    | child_window(auto_id="mSideSplitter", control_type="System.Windows.Forms.Splitter")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L231, T146, R486, B2065)
+   |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d6', 'WindowsForms10.Window.8.app.0.33c0d9d8']
+   |    | child_window(auto_id="mNavigationPanel", control_type="System.Windows.Forms.Panel")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L231, T146, R486, B2065)
+   |    |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d7', 'WindowsForms10.Window.8.app.0.33c0d9d9']
+   |    |    | child_window(auto_id="mNavigationStructure", control_type="Farmline.GUI.FCentral.Controls.NavigationStructure")
+   |    |    |    |
+   |    |    |    | TreeView - ''    (L231, T180, R486, B2064)
+   |    |    |    | ['Farm StructureTreeView', 'TreeView']
+   |    |    |    | child_window(auto_id="mTreeView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomTree")
+   |    |    |    |
+   |    |    |    | Static - 'Farm Structure'    (L231, T146, R486, B181)
+   |    |    |    | ['Farm StructureStatic', 'Static2', 'Farm Structure']
+   |    |    |    | child_window(title="Farm Structure", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |    |    |
+   |    |    | TreeView - ''    (L231, T180, R486, B2064)
+   |    |    | ['Farm StructureTreeView', 'TreeView']
+   |    |    | child_window(auto_id="mTreeView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomTree")
+   |    |    |
+   |    |    | Static - 'Farm Structure'    (L231, T146, R486, B181)
+   |    |    | ['Farm StructureStatic', 'Static2', 'Farm Structure']
+   |    |    | child_window(title="Farm Structure", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L231, T146, R486, B2065)
+   |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d7', 'WindowsForms10.Window.8.app.0.33c0d9d9']
+   |    | child_window(auto_id="mNavigationStructure", control_type="Farmline.GUI.FCentral.Controls.NavigationStructure")
+   |    |    |
+   |    |    | TreeView - ''    (L231, T180, R486, B2064)
+   |    |    | ['Farm StructureTreeView', 'TreeView']
+   |    |    | child_window(auto_id="mTreeView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomTree")
+   |    |    |
+   |    |    | Static - 'Farm Structure'    (L231, T146, R486, B181)
+   |    |    | ['Farm StructureStatic', 'Static2', 'Farm Structure']
+   |    |    | child_window(title="Farm Structure", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |    |
+   |    | TreeView - ''    (L231, T180, R486, B2064)
+   |    | ['Farm StructureTreeView', 'TreeView']
+   |    | child_window(auto_id="mTreeView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomTree")
+   |    |
+   |    | Static - 'Farm Structure'    (L231, T146, R486, B181)
+   |    | ['Farm StructureStatic', 'Static2', 'Farm Structure']
+   |    | child_window(title="Farm Structure", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T146, R3841, B2065)
+   | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d3', 'WindowsForms10.Window.8.app.0.33c0d9d4']
+   | child_window(auto_id="pnlOperationContainer", control_type="System.Windows.Forms.Panel")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T146, R3841, B2065)
+   |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d4', 'WindowsForms10.Window.8.app.0.33c0d9d5']
+   |    | child_window(auto_id="pnlOperationSectionFarm", control_type="System.Windows.Forms.Panel")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T180, R3841, B2064)
+   |    |    | ['MyFarmWindowsForms10.Window.8.app.0.33c0d9d', 'WindowsForms10.Window.8.app.0.33c0d9d6', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d0', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d1']
+   |    |    | child_window(auto_id="pbBitmap", control_type="System.Windows.Forms.PictureBox")
+   |    |    |
+   |    |    | Static - 'MyFarm'    (L491, T146, R3841, B181)
+   |    |    | ['Static', 'MyFarm', 'MyFarmStatic', 'Static0', 'Static1']
+   |    |    | child_window(title="MyFarm", auto_id="lblTitleBitmap", control_type="System.Windows.Forms.Label")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T180, R3841, B2064)
+   |    | ['MyFarmWindowsForms10.Window.8.app.0.33c0d9d', 'WindowsForms10.Window.8.app.0.33c0d9d6', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d0', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d1']
+   |    | child_window(auto_id="pbBitmap", control_type="System.Windows.Forms.PictureBox")
+   |    |
+   |    | Static - 'MyFarm'    (L491, T146, R3841, B181)
+   |    | ['Static', 'MyFarm', 'MyFarmStatic', 'Static0', 'Static1']
+   |    | child_window(title="MyFarm", auto_id="lblTitleBitmap", control_type="System.Windows.Forms.Label")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T146, R3841, B2065)
+   | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d4', 'WindowsForms10.Window.8.app.0.33c0d9d5']
+   | child_window(auto_id="pnlOperationSectionFarm", control_type="System.Windows.Forms.Panel")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T180, R3841, B2064)
+   |    | ['MyFarmWindowsForms10.Window.8.app.0.33c0d9d', 'WindowsForms10.Window.8.app.0.33c0d9d6', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d0', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d1']
+   |    | child_window(auto_id="pbBitmap", control_type="System.Windows.Forms.PictureBox")
+   |    |
+   |    | Static - 'MyFarm'    (L491, T146, R3841, B181)
+   |    | ['Static', 'MyFarm', 'MyFarmStatic', 'Static0', 'Static1']
+   |    | child_window(title="MyFarm", auto_id="lblTitleBitmap", control_type="System.Windows.Forms.Label")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L491, T180, R3841, B2064)
+   | ['MyFarmWindowsForms10.Window.8.app.0.33c0d9d', 'WindowsForms10.Window.8.app.0.33c0d9d6', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d0', 'MyFarmWindowsForms10.Window.8.app.0.33c0d9d1']
+   | child_window(auto_id="pbBitmap", control_type="System.Windows.Forms.PictureBox")
+   |
+   | Static - 'MyFarm'    (L491, T146, R3841, B181)
+   | ['Static', 'MyFarm', 'MyFarmStatic', 'Static0', 'Static1']
+   | child_window(title="MyFarm", auto_id="lblTitleBitmap", control_type="System.Windows.Forms.Label")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L486, T146, R491, B2065)
+   | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d5', 'WindowsForms10.Window.8.app.0.33c0d9d7']
+   | child_window(auto_id="mSideSplitter", control_type="System.Windows.Forms.Splitter")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L231, T146, R486, B2065)
+   | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d6', 'WindowsForms10.Window.8.app.0.33c0d9d8']
+   | child_window(auto_id="mNavigationPanel", control_type="System.Windows.Forms.Panel")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L231, T146, R486, B2065)
+   |    | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d7', 'WindowsForms10.Window.8.app.0.33c0d9d9']
+   |    | child_window(auto_id="mNavigationStructure", control_type="Farmline.GUI.FCentral.Controls.NavigationStructure")
+   |    |    |
+   |    |    | TreeView - ''    (L231, T180, R486, B2064)
+   |    |    | ['Farm StructureTreeView', 'TreeView']
+   |    |    | child_window(auto_id="mTreeView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomTree")
+   |    |    |
+   |    |    | Static - 'Farm Structure'    (L231, T146, R486, B181)
+   |    |    | ['Farm StructureStatic', 'Static2', 'Farm Structure']
+   |    |    | child_window(title="Farm Structure", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |    |
+   |    | TreeView - ''    (L231, T180, R486, B2064)
+   |    | ['Farm StructureTreeView', 'TreeView']
+   |    | child_window(auto_id="mTreeView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomTree")
+   |    |
+   |    | Static - 'Farm Structure'    (L231, T146, R486, B181)
+   |    | ['Farm StructureStatic', 'Static2', 'Farm Structure']
+   |    | child_window(title="Farm Structure", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L231, T146, R486, B2065)
+   | ['Farm StructureWindowsForms10.Window.8.app.0.33c0d9d7', 'WindowsForms10.Window.8.app.0.33c0d9d9']
+   | child_window(auto_id="mNavigationStructure", control_type="Farmline.GUI.FCentral.Controls.NavigationStructure")
+   |    |
+   |    | TreeView - ''    (L231, T180, R486, B2064)
+   |    | ['Farm StructureTreeView', 'TreeView']
+   |    | child_window(auto_id="mTreeView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomTree")
+   |    |
+   |    | Static - 'Farm Structure'    (L231, T146, R486, B181)
+   |    | ['Farm StructureStatic', 'Static2', 'Farm Structure']
+   |    | child_window(title="Farm Structure", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |
+   | TreeView - ''    (L231, T180, R486, B2064)
+   | ['Farm StructureTreeView', 'TreeView']
+   | child_window(auto_id="mTreeView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomTree")
+   |
+   | Static - 'Farm Structure'    (L231, T146, R486, B181)
+   | ['Farm StructureStatic', 'Static2', 'Farm Structure']
+   | child_window(title="Farm Structure", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L225, T146, R231, B2065)
+   | ['WindowsForms10.Window.8.app.0.33c0d9d10']
+   | child_window(auto_id="Splitter1", control_type="System.Windows.Forms.Splitter")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T146, R225, B2065)
+   | ['WindowsForms10.Window.8.app.0.33c0d9d11']
+   | child_window(auto_id="pnlLeft", control_type="System.Windows.Forms.Panel")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T146, R225, B2029)
+   |    | ['WindowsForms10.Window.8.app.0.33c0d9d12']
+   |    | child_window(auto_id="categoryBar", control_type="DevComponents.DotNetBar.SideBar")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T2028, R225, B2033)
+   |    | ['Control Units, Operation - C-CentralWindowsForms10.Window.8.app.0.33c0d9d2', 'WindowsForms10.Window.8.app.0.33c0d9d13']
+   |    | child_window(auto_id="mSplitterAlarmPopup", control_type="System.Windows.Forms.Splitter")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T2033, R225, B2065)
+   |    | ['WindowsForms10.Window.8.app.0.33c0d9d14', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d0', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d1']
+   |    | child_window(auto_id="mAlarmPopUp", control_type="Farmline.GUI.FCentral.Controls.AlarmPopUp")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T2067, R225, B2067)
+   |    |    | ['WindowsForms10.Window.8.app.0.33c0d9d15', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d2']
+   |    |    | child_window(auto_id="mAlarmListView", control_type="Farmline.GUI.FCentral.Controls.AlarmListView")
+   |    |    |    |
+   |    |    |    | ListView - ''    (L0, T2067, R225, B2067)
+   |    |    |    | ['ListView', 'ListView18-11-2024 15:01:46', 'ListView18-11-2024 14:49:50', 'ListView18-11-2024 15:17:53', 'ListView19-11-2024 08:31:17', 'ListView18-11-2024 16:30:08', 'ListViewchoiyul 2', 'ListView-', 'ListViewchoiyul 1', 'ListView18-11-2024 15:43:06', 'ListViewMyFarm', 'ListView19-11-2024 11:02:24', 'AlarmsListView', 'ListView18-10-2024 13:42:41', 'ListView18-11-2024 20:38:42']
+   |    |    |    | child_window(auto_id="mAlarmView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomListView")
+   |    |    |    |    |
+   |    |    |    |    | Header - ''    (L0, T2067, R219, B2093)
+   |    |    |    |    | ['AlarmsHeader', 'Header']
+   |    |    |    |    | child_window(class_name="SysHeader32")
+   |    |    |    |
+   |    |    |    | Header - ''    (L0, T2067, R219, B2093)
+   |    |    |    | ['AlarmsHeader', 'Header']
+   |    |    |    | child_window(class_name="SysHeader32")
+   |    |    |
+   |    |    | ListView - ''    (L0, T2067, R225, B2067)
+   |    |    | ['ListView', 'ListView18-11-2024 15:01:46', 'ListView18-11-2024 14:49:50', 'ListView18-11-2024 15:17:53', 'ListView19-11-2024 08:31:17', 'ListView18-11-2024 16:30:08', 'ListViewchoiyul 2', 'ListView-', 'ListViewchoiyul 1', 'ListView18-11-2024 15:43:06', 'ListViewMyFarm', 'ListView19-11-2024 11:02:24', 'AlarmsListView', 'ListView18-10-2024 13:42:41', 'ListView18-11-2024 20:38:42']
+   |    |    | child_window(auto_id="mAlarmView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomListView")
+   |    |    |    |
+   |    |    |    | Header - ''    (L0, T2067, R219, B2093)
+   |    |    |    | ['AlarmsHeader', 'Header']
+   |    |    |    | child_window(class_name="SysHeader32")
+   |    |    |
+   |    |    | Header - ''    (L0, T2067, R219, B2093)
+   |    |    | ['AlarmsHeader', 'Header']
+   |    |    | child_window(class_name="SysHeader32")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T2033, R225, B2068)
+   |    |    | ['WindowsForms10.Window.8.app.0.33c0d9d16', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d3']
+   |    |    | child_window(auto_id="pnGrowAndShrink", control_type="System.Windows.Forms.Panel")
+   |    |    |    |
+   |    |    |    | Static - 'Alarms'    (L0, T2033, R150, B2068)
+   |    |    |    | ['Static3', 'Alarms', 'AlarmsStatic']
+   |    |    |    | child_window(title="Alarms", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |    |    |    |
+   |    |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L150, T2033, R186, B2068)
+   |    |    |    | ['WindowsForms10.Window.8.app.0.33c0d9d17', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d4']
+   |    |    |    | child_window(auto_id="pbShrink", control_type="System.Windows.Forms.PictureBox")
+   |    |    |    |
+   |    |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L186, T2033, R225, B2068)
+   |    |    |    | ['WindowsForms10.Window.8.app.0.33c0d9d18', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d5']
+   |    |    |    | child_window(auto_id="pbGrow", control_type="System.Windows.Forms.PictureBox")
+   |    |    |
+   |    |    | Static - 'Alarms'    (L0, T2033, R150, B2068)
+   |    |    | ['Static3', 'Alarms', 'AlarmsStatic']
+   |    |    | child_window(title="Alarms", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L150, T2033, R186, B2068)
+   |    |    | ['WindowsForms10.Window.8.app.0.33c0d9d17', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d4']
+   |    |    | child_window(auto_id="pbShrink", control_type="System.Windows.Forms.PictureBox")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L186, T2033, R225, B2068)
+   |    |    | ['WindowsForms10.Window.8.app.0.33c0d9d18', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d5']
+   |    |    | child_window(auto_id="pbGrow", control_type="System.Windows.Forms.PictureBox")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T2067, R225, B2067)
+   |    | ['WindowsForms10.Window.8.app.0.33c0d9d15', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d2']
+   |    | child_window(auto_id="mAlarmListView", control_type="Farmline.GUI.FCentral.Controls.AlarmListView")
+   |    |    |
+   |    |    | ListView - ''    (L0, T2067, R225, B2067)
+   |    |    | ['ListView', 'ListView18-11-2024 15:01:46', 'ListView18-11-2024 14:49:50', 'ListView18-11-2024 15:17:53', 'ListView19-11-2024 08:31:17', 'ListView18-11-2024 16:30:08', 'ListViewchoiyul 2', 'ListView-', 'ListViewchoiyul 1', 'ListView18-11-2024 15:43:06', 'ListViewMyFarm', 'ListView19-11-2024 11:02:24', 'AlarmsListView', 'ListView18-10-2024 13:42:41', 'ListView18-11-2024 20:38:42']
+   |    |    | child_window(auto_id="mAlarmView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomListView")
+   |    |    |    |
+   |    |    |    | Header - ''    (L0, T2067, R219, B2093)
+   |    |    |    | ['AlarmsHeader', 'Header']
+   |    |    |    | child_window(class_name="SysHeader32")
+   |    |    |
+   |    |    | Header - ''    (L0, T2067, R219, B2093)
+   |    |    | ['AlarmsHeader', 'Header']
+   |    |    | child_window(class_name="SysHeader32")
+   |    |
+   |    | ListView - ''    (L0, T2067, R225, B2067)
+   |    | ['ListView', 'ListView18-11-2024 15:01:46', 'ListView18-11-2024 14:49:50', 'ListView18-11-2024 15:17:53', 'ListView19-11-2024 08:31:17', 'ListView18-11-2024 16:30:08', 'ListViewchoiyul 2', 'ListView-', 'ListViewchoiyul 1', 'ListView18-11-2024 15:43:06', 'ListViewMyFarm', 'ListView19-11-2024 11:02:24', 'AlarmsListView', 'ListView18-10-2024 13:42:41', 'ListView18-11-2024 20:38:42']
+   |    | child_window(auto_id="mAlarmView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomListView")
+   |    |    |
+   |    |    | Header - ''    (L0, T2067, R219, B2093)
+   |    |    | ['AlarmsHeader', 'Header']
+   |    |    | child_window(class_name="SysHeader32")
+   |    |
+   |    | Header - ''    (L0, T2067, R219, B2093)
+   |    | ['AlarmsHeader', 'Header']
+   |    | child_window(class_name="SysHeader32")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T2033, R225, B2068)
+   |    | ['WindowsForms10.Window.8.app.0.33c0d9d16', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d3']
+   |    | child_window(auto_id="pnGrowAndShrink", control_type="System.Windows.Forms.Panel")
+   |    |    |
+   |    |    | Static - 'Alarms'    (L0, T2033, R150, B2068)
+   |    |    | ['Static3', 'Alarms', 'AlarmsStatic']
+   |    |    | child_window(title="Alarms", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L150, T2033, R186, B2068)
+   |    |    | ['WindowsForms10.Window.8.app.0.33c0d9d17', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d4']
+   |    |    | child_window(auto_id="pbShrink", control_type="System.Windows.Forms.PictureBox")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L186, T2033, R225, B2068)
+   |    |    | ['WindowsForms10.Window.8.app.0.33c0d9d18', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d5']
+   |    |    | child_window(auto_id="pbGrow", control_type="System.Windows.Forms.PictureBox")
+   |    |
+   |    | Static - 'Alarms'    (L0, T2033, R150, B2068)
+   |    | ['Static3', 'Alarms', 'AlarmsStatic']
+   |    | child_window(title="Alarms", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L150, T2033, R186, B2068)
+   |    | ['WindowsForms10.Window.8.app.0.33c0d9d17', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d4']
+   |    | child_window(auto_id="pbShrink", control_type="System.Windows.Forms.PictureBox")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L186, T2033, R225, B2068)
+   |    | ['WindowsForms10.Window.8.app.0.33c0d9d18', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d5']
+   |    | child_window(auto_id="pbGrow", control_type="System.Windows.Forms.PictureBox")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T146, R225, B2029)
+   | ['WindowsForms10.Window.8.app.0.33c0d9d12']
+   | child_window(auto_id="categoryBar", control_type="DevComponents.DotNetBar.SideBar")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T2028, R225, B2033)
+   | ['Control Units, Operation - C-CentralWindowsForms10.Window.8.app.0.33c0d9d2', 'WindowsForms10.Window.8.app.0.33c0d9d13']
+   | child_window(auto_id="mSplitterAlarmPopup", control_type="System.Windows.Forms.Splitter")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T2033, R225, B2065)
+   | ['WindowsForms10.Window.8.app.0.33c0d9d14', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d0', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d1']
+   | child_window(auto_id="mAlarmPopUp", control_type="Farmline.GUI.FCentral.Controls.AlarmPopUp")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T2067, R225, B2067)
+   |    | ['WindowsForms10.Window.8.app.0.33c0d9d15', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d2']
+   |    | child_window(auto_id="mAlarmListView", control_type="Farmline.GUI.FCentral.Controls.AlarmListView")
+   |    |    |
+   |    |    | ListView - ''    (L0, T2067, R225, B2067)
+   |    |    | ['ListView', 'ListView18-11-2024 15:01:46', 'ListView18-11-2024 14:49:50', 'ListView18-11-2024 15:17:53', 'ListView19-11-2024 08:31:17', 'ListView18-11-2024 16:30:08', 'ListViewchoiyul 2', 'ListView-', 'ListViewchoiyul 1', 'ListView18-11-2024 15:43:06', 'ListViewMyFarm', 'ListView19-11-2024 11:02:24', 'AlarmsListView', 'ListView18-10-2024 13:42:41', 'ListView18-11-2024 20:38:42']
+   |    |    | child_window(auto_id="mAlarmView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomListView")
+   |    |    |    |
+   |    |    |    | Header - ''    (L0, T2067, R219, B2093)
+   |    |    |    | ['AlarmsHeader', 'Header']
+   |    |    |    | child_window(class_name="SysHeader32")
+   |    |    |
+   |    |    | Header - ''    (L0, T2067, R219, B2093)
+   |    |    | ['AlarmsHeader', 'Header']
+   |    |    | child_window(class_name="SysHeader32")
+   |    |
+   |    | ListView - ''    (L0, T2067, R225, B2067)
+   |    | ['ListView', 'ListView18-11-2024 15:01:46', 'ListView18-11-2024 14:49:50', 'ListView18-11-2024 15:17:53', 'ListView19-11-2024 08:31:17', 'ListView18-11-2024 16:30:08', 'ListViewchoiyul 2', 'ListView-', 'ListViewchoiyul 1', 'ListView18-11-2024 15:43:06', 'ListViewMyFarm', 'ListView19-11-2024 11:02:24', 'AlarmsListView', 'ListView18-10-2024 13:42:41', 'ListView18-11-2024 20:38:42']
+   |    | child_window(auto_id="mAlarmView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomListView")
+   |    |    |
+   |    |    | Header - ''    (L0, T2067, R219, B2093)
+   |    |    | ['AlarmsHeader', 'Header']
+   |    |    | child_window(class_name="SysHeader32")
+   |    |
+   |    | Header - ''    (L0, T2067, R219, B2093)
+   |    | ['AlarmsHeader', 'Header']
+   |    | child_window(class_name="SysHeader32")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T2033, R225, B2068)
+   |    | ['WindowsForms10.Window.8.app.0.33c0d9d16', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d3']
+   |    | child_window(auto_id="pnGrowAndShrink", control_type="System.Windows.Forms.Panel")
+   |    |    |
+   |    |    | Static - 'Alarms'    (L0, T2033, R150, B2068)
+   |    |    | ['Static3', 'Alarms', 'AlarmsStatic']
+   |    |    | child_window(title="Alarms", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L150, T2033, R186, B2068)
+   |    |    | ['WindowsForms10.Window.8.app.0.33c0d9d17', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d4']
+   |    |    | child_window(auto_id="pbShrink", control_type="System.Windows.Forms.PictureBox")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L186, T2033, R225, B2068)
+   |    |    | ['WindowsForms10.Window.8.app.0.33c0d9d18', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d5']
+   |    |    | child_window(auto_id="pbGrow", control_type="System.Windows.Forms.PictureBox")
+   |    |
+   |    | Static - 'Alarms'    (L0, T2033, R150, B2068)
+   |    | ['Static3', 'Alarms', 'AlarmsStatic']
+   |    | child_window(title="Alarms", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L150, T2033, R186, B2068)
+   |    | ['WindowsForms10.Window.8.app.0.33c0d9d17', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d4']
+   |    | child_window(auto_id="pbShrink", control_type="System.Windows.Forms.PictureBox")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L186, T2033, R225, B2068)
+   |    | ['WindowsForms10.Window.8.app.0.33c0d9d18', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d5']
+   |    | child_window(auto_id="pbGrow", control_type="System.Windows.Forms.PictureBox")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T2067, R225, B2067)
+   | ['WindowsForms10.Window.8.app.0.33c0d9d15', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d2']
+   | child_window(auto_id="mAlarmListView", control_type="Farmline.GUI.FCentral.Controls.AlarmListView")
+   |    |
+   |    | ListView - ''    (L0, T2067, R225, B2067)
+   |    | ['ListView', 'ListView18-11-2024 15:01:46', 'ListView18-11-2024 14:49:50', 'ListView18-11-2024 15:17:53', 'ListView19-11-2024 08:31:17', 'ListView18-11-2024 16:30:08', 'ListViewchoiyul 2', 'ListView-', 'ListViewchoiyul 1', 'ListView18-11-2024 15:43:06', 'ListViewMyFarm', 'ListView19-11-2024 11:02:24', 'AlarmsListView', 'ListView18-10-2024 13:42:41', 'ListView18-11-2024 20:38:42']
+   |    | child_window(auto_id="mAlarmView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomListView")
+   |    |    |
+   |    |    | Header - ''    (L0, T2067, R219, B2093)
+   |    |    | ['AlarmsHeader', 'Header']
+   |    |    | child_window(class_name="SysHeader32")
+   |    |
+   |    | Header - ''    (L0, T2067, R219, B2093)
+   |    | ['AlarmsHeader', 'Header']
+   |    | child_window(class_name="SysHeader32")
+   |
+   | ListView - ''    (L0, T2067, R225, B2067)
+   | ['ListView', 'ListView18-11-2024 15:01:46', 'ListView18-11-2024 14:49:50', 'ListView18-11-2024 15:17:53', 'ListView19-11-2024 08:31:17', 'ListView18-11-2024 16:30:08', 'ListViewchoiyul 2', 'ListView-', 'ListViewchoiyul 1', 'ListView18-11-2024 15:43:06', 'ListViewMyFarm', 'ListView19-11-2024 11:02:24', 'AlarmsListView', 'ListView18-10-2024 13:42:41', 'ListView18-11-2024 20:38:42']
+   | child_window(auto_id="mAlarmView", control_type="FarmLine.Common.Gui.Vb.CustomControls.CustomListView")
+   |    |
+   |    | Header - ''    (L0, T2067, R219, B2093)
+   |    | ['AlarmsHeader', 'Header']
+   |    | child_window(class_name="SysHeader32")
+   |
+   | Header - ''    (L0, T2067, R219, B2093)
+   | ['AlarmsHeader', 'Header']
+   | child_window(class_name="SysHeader32")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T2033, R225, B2068)
+   | ['WindowsForms10.Window.8.app.0.33c0d9d16', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d3']
+   | child_window(auto_id="pnGrowAndShrink", control_type="System.Windows.Forms.Panel")
+   |    |
+   |    | Static - 'Alarms'    (L0, T2033, R150, B2068)
+   |    | ['Static3', 'Alarms', 'AlarmsStatic']
+   |    | child_window(title="Alarms", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L150, T2033, R186, B2068)
+   |    | ['WindowsForms10.Window.8.app.0.33c0d9d17', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d4']
+   |    | child_window(auto_id="pbShrink", control_type="System.Windows.Forms.PictureBox")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L186, T2033, R225, B2068)
+   |    | ['WindowsForms10.Window.8.app.0.33c0d9d18', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d5']
+   |    | child_window(auto_id="pbGrow", control_type="System.Windows.Forms.PictureBox")
+   |
+   | Static - 'Alarms'    (L0, T2033, R150, B2068)
+   | ['Static3', 'Alarms', 'AlarmsStatic']
+   | child_window(title="Alarms", auto_id="mTitle", control_type="System.Windows.Forms.Label")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L150, T2033, R186, B2068)
+   | ['WindowsForms10.Window.8.app.0.33c0d9d17', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d4']
+   | child_window(auto_id="pbShrink", control_type="System.Windows.Forms.PictureBox")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L186, T2033, R225, B2068)
+   | ['WindowsForms10.Window.8.app.0.33c0d9d18', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d5']
+   | child_window(auto_id="pbGrow", control_type="System.Windows.Forms.PictureBox")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T2064, R3840, B2100)
+   | ['WindowsForms10.Window.8.app.0.33c0d9d19', 'AlarmsWindowsForms10.Window.8.app.0.33c0d9d6']
+   | child_window(auto_id="StatusBar", control_type="DevComponents.DotNetBar.Bar")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T146, R0, B2101)
+   | ['WindowsForms10.Window.8.app.0.33c0d9d20']
+   | child_window(auto_id="barLeftDockSite", control_type="DevComponents.DotNetBar.DockSite")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L3840, T146, R3840, B2101)
+   | ['MyFarmWindowsForms10.Window.8.app.0.33c0d9d2', 'WindowsForms10.Window.8.app.0.33c0d9d21']
+   | child_window(auto_id="barRightDockSite", control_type="DevComponents.DotNetBar.DockSite")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T146, R3840, B146)
+   | ['WindowsForms10.Window.8.app.0.33c0d9d22']
+   | child_window(auto_id="barTopDockSite", control_type="DevComponents.DotNetBar.DockSite")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T2100, R3840, B2100)
+   | ['Control Units, Operation - C-CentralWindowsForms10.Window.8.app.0.33c0d9d3', 'WindowsForms10.Window.8.app.0.33c0d9d23']
+   | child_window(auto_id="barBottomDockSite", control_type="DevComponents.DotNetBar.DockSite")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T146, R0, B2101)
+   | ['WindowsForms10.Window.8.app.0.33c0d9d24']
+   | child_window(auto_id="DockSite1", control_type="DevComponents.DotNetBar.DockSite")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L3840, T146, R3840, B2101)
+   | ['MyFarmWindowsForms10.Window.8.app.0.33c0d9d3', 'WindowsForms10.Window.8.app.0.33c0d9d25']
+   | child_window(auto_id="DockSite2", control_type="DevComponents.DotNetBar.DockSite")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T35, R3840, B146)
+   | ['WindowsForms10.Window.8.app.0.33c0d9d26']
+   | child_window(auto_id="DockSite3", control_type="DevComponents.DotNetBar.DockSite")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T35, R3840, B71)
+   |    | ['WindowsForms10.Window.8.app.0.33c0d9d27']
+   |    | child_window(auto_id="mainmenu", control_type="DevComponents.DotNetBar.Bar")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T71, R3840, B146)
+   |    | ['WindowsForms10.Window.8.app.0.33c0d9d28']
+   |    | child_window(auto_id="mToolBar", control_type="DevComponents.DotNetBar.Bar")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T35, R3840, B71)
+   | ['WindowsForms10.Window.8.app.0.33c0d9d27']
+   | child_window(auto_id="mainmenu", control_type="DevComponents.DotNetBar.Bar")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T71, R3840, B146)
+   | ['WindowsForms10.Window.8.app.0.33c0d9d28']
+   | child_window(auto_id="mToolBar", control_type="DevComponents.DotNetBar.Bar")
+   |
+   | WindowsForms10.Window.8.app.0.33c0d9d - ''    (L0, T2100, R3840, B2100)
+   | ['Control Units, Operation - C-CentralWindowsForms10.Window.8.app.0.33c0d9d4', 'WindowsForms10.Window.8.app.0.33c0d9d29']
+   | child_window(auto_id="DockSite4", control_type="DevComponents.DotNetBar.DockSite")
